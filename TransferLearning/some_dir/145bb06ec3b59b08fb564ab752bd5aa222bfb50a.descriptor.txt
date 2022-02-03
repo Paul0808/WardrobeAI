@@ -1,0 +1,3 @@
+Module: https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4
+Download Time: 2022-01-19 22:03:50.140326
+Downloader Hostname: DESKTOP-JSR741D (PID:13180)
